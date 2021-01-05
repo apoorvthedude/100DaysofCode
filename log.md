@@ -1,0 +1,18 @@
+# 100 Days Of Code - Log
+
+### DAY-1: January 1st, 2021
+**Progress**: Started learning django,python framework.</br>
+**Thoughts**: Did programming for 1 hour which i will increase gradually in the coming days of challenge.Learning django not learned much.</br>
+**Link(s) to work**: https://www.geeksforgeeks.org/django-basics/ ,https://drive.google.com/file/d/14hvnn4YjIegD2eNT6BGq7JpoeF1o90Rt/view?usp=sharing </br>
+#### Day -2 : Jan 2nd,2021
+**Progress**: Learning Django,python web framework.</br>
+**Thoughts**: Learn some basics,built an app of hello world,used Templates and jinja commands for making form and styling of webpage.</br>
+**Link(s) to work**: https://www.youtube.com/watch?v=OTmQOjsl0eg&t=2948s&ab_channel=Telusko , code: https://drive.google.com/drive/folders/1lNpSmfyQuh5AkUegT_XhB_iKJOakPTsb?usp=sharing <br>
+#### Day -3 : Jan 3rd,2021
+**Progress**:Learned today about django basics,working on django forms.</br>
+**Thoughts**:Learn basic commands how to create project,app and to make form and to do styling using templates and jinja commands.<br>
+**Link(s) to work**: articles:https://www.geeksforgeeks.org/django-tutorial/ ,https://www.geeksforgeeks.org/django-basics/ ,https://www.geeksforgeeks.org/django-introduction-and-installation/ ,https://www.geeksforgeeks.org/when-to-use-django-comparison-with-other-development-stacks/ ,https://www.geeksforgeeks.org/django-project-mvt-structure/ ,https://www.geeksforgeeks.org/how-to-create-a-basic-project-using-mvt-in-django/ ,https://www.geeksforgeeks.org/how-to-create-an-app-in-django/ <br>
+#### Day -4 : Jan 4th,2021
+**Progress**:Learning django,learning about forms,static webpage,how to make it dynamic,Learned about MVT Architecture.<br>
+**Thoughts**:Learning rate these days is slow,but pace up very fast soon.Learning jinja commands and MVT Architecture.<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=JxzZxdht-XY&t=4553s&ab_channel=CodeWithHarry ,https://www.geeksforgeeks.org/django-forms/ ,https://www.geeksforgeeks.org/how-to-create-a-form-using-django-forms/ <br>
