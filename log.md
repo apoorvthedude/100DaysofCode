@@ -16,3 +16,7 @@
 **Progress**:Learning django,learning about forms,static webpage,how to make it dynamic,Learned about MVT Architecture.<br>
 **Thoughts**:Learning rate these days is slow,but pace up very fast soon.Learning jinja commands and MVT Architecture.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=JxzZxdht-XY&t=4553s&ab_channel=CodeWithHarry ,https://www.geeksforgeeks.org/django-forms/ ,https://www.geeksforgeeks.org/how-to-create-a-form-using-django-forms/ <br>
+#### Day -5 : Jan 5th,2021
+**Progress**:Learned git commands.<br>
+**Thoughts**:Not coded so much,watched tutorial of git to learn commands.trying to create habit to code.<br>
+**Link(s) to work**: https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry ,https://www.youtube.com/watch?v=iR5WIknxdkY&ab_channel=ApniKaksha ,https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html <br>
