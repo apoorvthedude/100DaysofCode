@@ -20,3 +20,9 @@
 **Progress**:Learned git commands.<br>
 **Thoughts**:Not coded so much,watched tutorial of git to learn commands.trying to create habit to code.<br>
 **Link(s) to work**: https://www.youtube.com/watch?v=gwWKnnCMQ5c&ab_channel=CodeWithHarry ,https://www.youtube.com/watch?v=iR5WIknxdkY&ab_channel=ApniKaksha ,https://confluence.atlassian.com/bitbucketserver/basic-git-commands-776639767.html <br>
+#### Day -6 : Jan 6th,2021
+**Progress**:Learning django,learned today url dispatcher,template inheritance learned some jinja commands briefly.<br>
+**Thoughts**:Learning rate is slow,but increase it rapidly soon.url dispatcher,template inheritance will learn static images in coming days.<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=9aEsZxaOwRs&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=EpZbD_ELhAQ&ab_channel=DennisIvy <br>
+
+
