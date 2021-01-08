@@ -24,5 +24,12 @@
 **Progress**:Learning django,learned today url dispatcher,template inheritance learned some jinja commands briefly.<br>
 **Thoughts**:Learning rate is slow,but increase it rapidly soon.url dispatcher,template inheritance will learn static images in coming days.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=9aEsZxaOwRs&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=EpZbD_ELhAQ&ab_channel=DennisIvy <br>
+#### Day -7 : Jan 7th,2021
+**Progress**:learning djago,Yesterday learned about static files and images,database models and admin panel.<br>
+**Thoughts**:Things needed to improve in programming.
+             (1)Increase effeciency and time management.My Learning rate is slow these days.<br>
+             (2)Work on implementation,rather than to just learn,I m learning but will make a good project soon.<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=kqyfEz7TNI0&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=4&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=mOu9fpfzyUg&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=5&ab_channel=DennisIvy ,https://docs.djangoproject.com/en/3.1/intro/tutorial06/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial07/ <br>
+
 
 
