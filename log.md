@@ -30,6 +30,12 @@
              (1)Increase effeciency and time management.My Learning rate is slow these days.<br>
              (2)Work on implementation,rather than to just learn,I m learning but will make a good project soon.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=kqyfEz7TNI0&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=4&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=mOu9fpfzyUg&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=5&ab_channel=DennisIvy ,https://docs.djangoproject.com/en/3.1/intro/tutorial06/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial07/ <br>
+#### Day 8 : Jan 8th,2021
+**Progress**:Not much code done today.<br>
+**Thoughts**:I want to increase the effeciency.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial07/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial06/ <br>
+
+
 
 
 
