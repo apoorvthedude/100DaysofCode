@@ -34,8 +34,8 @@
 **Progress**:Not much code done today.<br>
 **Thoughts**:I want to increase the effeciency.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial07/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial06/ <br>
-
-
-
-
-
+#### Day 9 : Jan 9th,2021
+**Progress**:Learned more django,about database,query set and templates.<br>
+**Thoughts**:Learning how to make database more effecient,about relationships among data like one-to-many,many-to-many etc.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/ref/models/querysets/ ,https://www.youtube.com/watch?v=wIPHER2UBB4&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=6&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=wIPHER2UBB4&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=6&ab_channel=DennisIvy
+<br>
