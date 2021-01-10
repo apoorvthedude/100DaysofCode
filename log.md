@@ -39,3 +39,7 @@
 **Thoughts**:Learning how to make database more effecient,about relationships among data like one-to-many,many-to-many etc.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/ref/models/querysets/ ,https://www.youtube.com/watch?v=wIPHER2UBB4&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=6&ab_channel=DennisIvy ,https://www.youtube.com/watch?v=wIPHER2UBB4&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=6&ab_channel=DennisIvy
 <br>
+#### Day 10 : Jan 10th,2021
+**Progress**:Learned rendering of data to templates.<br>
+**Thoughts**:Learned about things but coded max 30 mins,pushing myself everyday to code qualitatively and quantitatively.<br>
+**Link(s) to work**: https://www.youtube.com/watch?v=7a23TbUXfWE&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=8&ab_channel=DennisIvy<br>
