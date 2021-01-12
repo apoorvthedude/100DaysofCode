@@ -42,4 +42,11 @@
 #### Day 10 : Jan 10th,2021
 **Progress**:Learned rendering of data to templates.<br>
 **Thoughts**:Learned about things but coded max 30 mins,pushing myself everyday to code qualitatively and quantitatively.<br>
-**Link(s) to work**: https://www.youtube.com/watch?v=7a23TbUXfWE&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=8&ab_channel=DennisIvy<br>
+**Link(s) to work**: https://www.youtube.com/watch?v=7a23TbUXfWE&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=8&ab_channel=DennisIvy <br>
+#### Day 11 : Jan 11th,2021
+**Progress**:Readed about the documentation of django,learned about basics things again,learned more about rendering data to templates.<br>
+**Thoughts**:Coding not so much due to sem exam preparation but postive effects of doing programmming will be shown from 13th jan 2021,documentation of djanog is clean and easy<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=7a23TbUXfWE&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=8&ab_channel=DennisIvy ,https://docs.djangoproject.com/en/3.1/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=769s&ab_channel=CleverProgrammer <br>
+
+
+
