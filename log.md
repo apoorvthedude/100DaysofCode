@@ -49,3 +49,8 @@
 **Link(s) to work**:https://www.youtube.com/watch?v=7a23TbUXfWE&list=PL-51WBLyFTg2vW-_6XBoUpE7vpmoR3ztO&index=8&ab_channel=DennisIvy ,https://docs.djangoproject.com/en/3.1/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=769s&ab_channel=CleverProgrammer <br>
 ####  Jan 12th,2021 skipped}
 ####  Jan 13th,2021 {skipped}
+#### Day 14 : Jan 14th,2021
+**Progress**:Learned and coded in data processing and visualisation projects,machine learning models etc.<br>
+**Thoughts**:it gets difficult to understand as i move forward in the module<br>
+**Link(s) to work**:coursera : Python Data Products for Predictive Analytics!<br>
+
