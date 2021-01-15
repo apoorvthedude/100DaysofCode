@@ -53,4 +53,7 @@
 **Progress**:Learned and coded in data processing and visualisation projects,machine learning models etc.<br>
 **Thoughts**:it gets difficult to understand as i move forward in the module<br>
 **Link(s) to work**:coursera : Python Data Products for Predictive Analytics!<br>
-
+#### Day 13 : Jan 15th,2021
+**Progress**:Learning django from start from its documentation.<br>
+**Thoughts**:Learning django from basics,making a project,app and writing some codes.Looking forward to increasing up pace/speed<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/<br>
