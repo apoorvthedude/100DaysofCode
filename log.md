@@ -57,3 +57,7 @@
 **Progress**:Learning django from start from its documentation.<br>
 **Thoughts**:Learning django from basics,making a project,app and writing some codes.Looking forward to increasing up pace/speed<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/<br>
+#### Day 14 : Jan 16th,2021
+**Progress**:learned and coded for 1 hour effeciently,worked in sqlite database of django.<br>
+**Thoughts**:Now programming is on track,but more to come each day.<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=769s&ab_channel=CleverProgrammer ,https://docs.djangoproject.com/en/3.1/intro/tutorial02/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial01/<br>
