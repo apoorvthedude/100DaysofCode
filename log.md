@@ -61,3 +61,7 @@
 **Progress**:learned and coded for 1 hour effeciently,worked in sqlite database of django.<br>
 **Thoughts**:Now programming is on track,but more to come each day.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=769s&ab_channel=CleverProgrammer ,https://docs.djangoproject.com/en/3.1/intro/tutorial02/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial01/<br>
+#### Day 15 : Jan 17th,2021
+**Progress**:Learned and interacted with admin panel of django.<br>
+**Thoughts**:Things are on track now towards programming and django buit in admin interface is good and so much to learn and customise it according to your need.<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=5834s ,https://docs.djangoproject.com/en/3.1/intro/tutorial02/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial03/ <br>
