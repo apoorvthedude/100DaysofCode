@@ -65,3 +65,10 @@
 **Progress**:Learned and interacted with admin panel of django.<br>
 **Thoughts**:Things are on track now towards programming and django buit in admin interface is good and so much to learn and customise it according to your need.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=5834s ,https://docs.djangoproject.com/en/3.1/intro/tutorial02/ ,https://docs.djangoproject.com/en/3.1/intro/tutorial03/ <br>
+#### Day 16 : Jan 18th,2021
+**Progress**:I m learning new things like template inheritance,about more functions like Http404 etc like functions.<br>
+**Thoughts**:I want to speed up learning speed ,want to learn more in less time.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial03/, https://www.youtube.com/watch?v=JT80XhYJdBw&t=5834s<br>
+
+
+
