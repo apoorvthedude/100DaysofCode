@@ -69,6 +69,7 @@
 **Progress**:I m learning new things like template inheritance,about more functions like Http404 etc like functions.<br>
 **Thoughts**:I want to speed up learning speed ,want to learn more in less time.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial03/, https://www.youtube.com/watch?v=JT80XhYJdBw&t=5834s<br>
-
-
-
+#### Day 17 : Jan 19th,2021
+**Progress**:I had coded for 1hr and 30 mins and learned a lot about django,including django forms,views,template inheritance.<br>
+**Thoughts**:Looking forward to increase the efficiency to learn code.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6531s&ab_channel=CleverProgrammer<br>
