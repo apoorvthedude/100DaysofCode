@@ -73,3 +73,8 @@
 **Progress**:I had coded for 1hr and 30 mins and learned a lot about django,including django forms,views,template inheritance.<br>
 **Thoughts**:Looking forward to increase the efficiency to learn code.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6531s&ab_channel=CleverProgrammer<br>
+####  Jan 20th,2021 {skipped}
+#### Day 17 : Jan 19th,2021
+**Progress**:Learned about generic views,rendering etc.<br>
+**Thoughts**:Coded for 1 hour and learned and learning lot of things through documentation.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6981s<br>
