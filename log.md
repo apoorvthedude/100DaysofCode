@@ -78,3 +78,6 @@
 **Progress**:Learned about generic views,rendering etc.<br>
 **Thoughts**:Coded for 1 hour and learned and learning lot of things through documentation.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6981s<br>
+####  Jan 22nd,2021 {skipped}
+#### Day 18 : Jan 21st,2021
+**Progress**:
