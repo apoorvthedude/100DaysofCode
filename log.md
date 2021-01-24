@@ -83,3 +83,5 @@
 **Progress**:today I coded for 1 hour and learned about generic views and more about views.<br>
 **Thoughts**:I m learning more about django and how to make our code minimum<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=7856s ,https://docs.djangoproject.com/en/3.1/intro/tutorial04/<br>
+#### Day 19 : Jan 23rd,2021
+
