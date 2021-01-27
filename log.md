@@ -77,12 +77,12 @@
 #### Day 18 : Jan 21st,2021
 **Progress**:Learned about generic views,rendering etc.<br>
 **Thoughts**:Coded for 1 hour and learned and learning lot of things through documentation.<br>
-**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6981s<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial04/ ,https://www.youtube.com/watch?v=JT80XhYJdBw&t=6981s <br>
 ####  Jan 22nd,2021 {skipped}
 #### Day 19 : Jan 23rd,2021
 **Progress**:today I coded for 1 hour and learned about generic views and more about views.<br>
 **Thoughts**:I m learning more about django and how to make our code minimum<br>
-**Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=7856s ,https://docs.djangoproject.com/en/3.1/intro/tutorial04/<br>
+**Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=7856s ,https://docs.djangoproject.com/en/3.1/intro/tutorial04/ <br>
 #### Day 20 : Jan 24th,2021
 **Progress**:Today I learned about generic views and completed app 4 of django documentation.<br>
 **Thoughts**:Generic views saves a lot of time by decreasing the amount of code.<br>
@@ -91,7 +91,8 @@
 **Progress**:Learned automated testing in django.<br>
 **Thoughts**:Learning new things in django.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial05/ <br>
-####  Jan 20th,2021 {skipped}
-
-#### Day 21 : Jan 25th,2021
-
+####  Jan 26th,2021 {skipped}
+#### Day 22 : Jan 27th,2021
+**Progress**:Learing automating testing in django.<br>
+**Thoughts**:automating testing saves your lot of time if you are working on a big project.<br>
+**Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial05/ <br>
