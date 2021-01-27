@@ -87,7 +87,11 @@
 **Progress**:Today I learned about generic views and completed app 4 of django documentation.<br>
 **Thoughts**:Generic views saves a lot of time by decreasing the amount of code.<br>
 **Link(s) to work**:https://www.youtube.com/watch?v=JT80XhYJdBw&t=7856s ,https://docs.djangoproject.com/en/3.1/intro/tutorial04/ <br>
-#### Day 20 : Jan 24th,2021
+#### Day 21 : Jan 25th,2021
 **Progress**:Learned automated testing in django.<br>
 **Thoughts**:Learning new things in django.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial05/ <br>
+####  Jan 20th,2021 {skipped}
+
+#### Day 21 : Jan 25th,2021
+
