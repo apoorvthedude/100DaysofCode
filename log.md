@@ -96,7 +96,11 @@
 **Progress**:Learing automating testing in django.<br>
 **Thoughts**:automating testing saves your lot of time if you are working on a big project.<br>
 **Link(s) to work**:https://docs.djangoproject.com/en/3.1/intro/tutorial05/ <br>
-#### Day 22 : Jan 27th,2021
+#### Day 23 : Jan 28th,2021
 **Progress**:I learned and coded questions related to OOPS using python.<br>
 **Thoughts**:Learning functional programming,encapsulation and more things related to OOPS<br>
 **Link(s) to work**:Code:https://drive.google.com/drive/folders/1I5OQz30iPfliK81ipBwj16sKv7TN_LBK?usp=sharing ,https://www.youtube.com/watch?v=qiSCMNBIP2g&ab_channel=Telusko <br>
+#### Day 24 : Jan 29th,2021
+**Progress**:I am learning oops concepts using python.<br>
+**Thoughts**:This concept will help me in becoming better developer/programmer and using this concept i will able to write better and effecient code in CP as well as while writing django programmes.<br>
+**Link(s) to work**:Video tutorials:https://www.youtube.com/watch?v=MikphENIrOo&t=445s<br>
