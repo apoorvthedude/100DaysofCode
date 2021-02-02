@@ -108,6 +108,6 @@
 ####  Jan 31st,2021 {skipped}
 ####  Feb 1st,2021 {skipped}
 #### Day 25 : Feb 2nd,2021
-**Progress**:<br>
-**Thoughts**:<br>
-**Link(s) to work**:<br>
+**Progress**: Learned and coded few lines of code using OOP's Concept in python.<br>
+**Thoughts**: Learned about methods,objects,instances and learning new things.<br>
+**Link(s) to work**: Tutorial: https://www.programiz.com/python-programming/class ,https://www.programiz.com/python-programming/object-oriented-programming <br>
