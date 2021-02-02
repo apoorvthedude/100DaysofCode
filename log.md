@@ -104,3 +104,10 @@
 **Progress**:I am learning oops concepts using python.<br>
 **Thoughts**:This concept will help me in becoming better developer/programmer and using this concept i will able to write better and effecient code in CP as well as while writing django programmes.<br>
 **Link(s) to work**:Video tutorials:https://www.youtube.com/watch?v=MikphENIrOo&t=445s<br>
+####  Jan 30th,2021 {skipped}
+####  Jan 31st,2021 {skipped}
+####  Feb 1st,2021 {skipped}
+#### Day 25 : Feb 2nd,2021
+**Progress**:<br>
+**Thoughts**:<br>
+**Link(s) to work**:<br>
