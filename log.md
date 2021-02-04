@@ -111,3 +111,9 @@
 **Progress**: Learned and coded few lines of code using OOP's Concept in python.<br>
 **Thoughts**: Learned about methods,objects,instances and learning new things.<br>
 **Link(s) to work**: Tutorial: https://www.programiz.com/python-programming/class ,https://www.programiz.com/python-programming/object-oriented-programming <br>
+####  Feb 3rd,2021 {skipped}
+#### Day 26 : Feb 4th,2021
+**Progress**:Learned and coded for {1HR 25MIN} few lines of code using OOP'S in python.<br>
+**Thoughts**:learned about polymorphism,data encapsulation,inheritance.<br>
+**Link(s) to work**:Code:,
+Tutorial:<br>
