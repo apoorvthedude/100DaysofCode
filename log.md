@@ -115,5 +115,5 @@
 #### Day 26 : Feb 4th,2021
 **Progress**:Learned and coded for {1HR 25MIN} few lines of code using OOP'S in python.<br>
 **Thoughts**:learned about polymorphism,data encapsulation,inheritance.<br>
-**Link(s) to work**:Code:,
-Tutorial:<br>
+**Link(s) to work**:Code:https://drive.google.com/file/d/11L_AV8teF5aMoPSI6juxPsYTaFkAm-wA/view?usp=sharing,
+Tutorial:https://www.programiz.com/python-programming/object-oriented-programming<br>
