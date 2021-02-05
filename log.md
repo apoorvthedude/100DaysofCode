@@ -118,5 +118,7 @@
 **Link(s) to work**:Code:https://drive.google.com/file/d/11L_AV8teF5aMoPSI6juxPsYTaFkAm-wA/view?usp=sharing,
 Tutorial:https://www.programiz.com/python-programming/object-oriented-programming <br>
 #### Day 27 : Feb 5th,2021
-**Progress**:
-**Thoughts**:
+**Progress**:I coded and learned about oops using python.<br>
+**Thoughts**:I want to make more programs using python that will improve my coding skill as a programmer.<br>
+**Link(s) to work**:Code:https://drive.google.com/file/d/1KtqdrfH_S1schepatCSLDAJfubT49Ja9/view?usp=sharing,
+Tutorial:https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim<br>
