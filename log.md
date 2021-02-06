@@ -122,7 +122,7 @@ Tutorial:https://www.programiz.com/python-programming/object-oriented-programmin
 **Thoughts**:I want to make more programs using OOP's concept in python that will improve my coding skill as a programmer.<br>
 **Link(s) to work**:Code:https://drive.google.com/file/d/1KtqdrfH_S1schepatCSLDAJfubT49Ja9/view?usp=sharing,
 Tutorial:https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim<br>
-#### Day 28 : Feb 5th,2021
+#### Day 28 : Feb 6th,2021
 **Progress**:I learned and coded more in OOP's using Python.<br>
 **Thoughts**:Getting more knowledge and confident about OOP's and coded & learned for 1hour.<br>
 **Link(s) to work**:Code:https://drive.google.com/file/d/1AEFRrctK1WJNVkEhWqICnvg1FyOTJFDh/view?usp=sharing,
