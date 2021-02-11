@@ -127,4 +127,8 @@ Tutorial:https://www.youtube.com/watch?v=JeznW_7DlB0&ab_channel=TechWithTim<br>
 **Thoughts**:Getting more knowledge and confident about OOP's and coded & learned for 1hour.<br>
 **Link(s) to work**:Code:https://drive.google.com/file/d/1AEFRrctK1WJNVkEhWqICnvg1FyOTJFDh/view?usp=sharing,
 Tutorial:https://www.youtube.com/watch?v=JeznW_7DlB0&t=1731s&ab_channel=TechWithTim<br>
-
+####  Feb 07th,2021 {skipped}
+####  Feb 08th,2021 {skipped}
+####  Feb 09th,2021 {skipped}
+####  Feb 10th,2021 {skipped}
+####  Feb 11th,2021 {skipped}
